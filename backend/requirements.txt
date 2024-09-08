@@ -1,0 +1,11 @@
+pinecone-client
+transformers
+fastapi
+uvicorn
+pypdf
+python-docx
+open_clip_torch
+python-multipart
+langchain-community
+aiofiles
+boto3
